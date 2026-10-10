@@ -1,0 +1,9 @@
+SpeechRecognition
+PyAudio
+pyttsx3
+pyautogui
+resemblyzer
+librosa
+soundfile
+numpy
+scipy
